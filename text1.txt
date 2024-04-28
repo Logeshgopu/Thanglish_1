@@ -1,0 +1,32 @@
+The book is disproportionally focused on single and multilayer feedforward networks.
+And though the book puts great emphasis on mathematics and even includes a big section on important mathematical background knowledge, it contains to many errors in the mathematical formulas, so they are of little use.
+The author hasn't even taken the trouble to put up an errata list.
+Finally, for the beginner there are not enough conceptual clues on what is actually going on and it is hard to form any mental model of the underlying processes.
+There are better books.
+For an introduction read Neural Networks by Kevin Gurney. He puts great emphasis on conceptual understanding.
+For further studies there is Neural Networks by Simon Haykin, which has the mathematics.
+
+I began this novel with the greatest of hopes, and finished it in an effort to fully understand what a really bad novel consists of.
+It is the story of a man in a mid-western town and a full description of every person he has ever met in the town.
+It held the promise of leading off into a sci-fi novel but didn't quite reach anything beyond the mundane until the last couple of chapters of the book.
+Reading the introductions to numerous sub-characters that had no relation to the plot (if there was one)was painfully boring and took up a good part of the book.
+The relationship between Michael (the main character) and Angela (a complete stranger he hops into bed with in the first chapter) is not only unplausable and mesogenistic it reads like the fantastic pipe-dream of a teenage boy.
+When the the main character finally reaches something vaguely interesting, the discovery of an alien corridor, he takes a break from uncovering it to go have a day at the art museum and shopping with his girlfriend.
+When he gets back to the corridor he is ready to dive in, and when he does so begins the only salvageable part of the book.
+Note to author: Reading doesn't have to be as painful as a dentist appointment.
+They say to write what you know, but keep in mind that plot is EVERYTHING, without one you are just meandering about frustrating your reader.
+
+Readers of Dean Koontz's Frankenstein have been anticipating the final volume in the series for years.
+It wasn't worth the wait.
+Released late last month, Dead and Alive wraps up the author's modernization of the Frankenstein story four years later than originally planned.
+Reasons for the delay include Koontz's dislike of working with co-authors (both of whose names have been dropped from new printings of books one and two) to the effect of the real-life Hurricane Katrina on the story's New Orleans setting.
+Somewhere between 2005 and now, Koontz decided not to take the whole thing too seriously: What began as a pulpish horror/adventure story with humorous overtones has morphed into a full-blown farce, complete with a naked, dancing troll with a taste for bath soap and interminable scenes filled with wacky patter that would be more at home in a romantic comedy.
+Only Deucalion, Victor's first creation from the Mary Shelly novel that served as inspiration for this updating, is still played straight.
+Detectives Carson O'Connor and Michael Madison are reduced to supporting roles, nattering on about raising babies (they're now in love), eating and shooting guns.
+A Three Stooges moment as they pursue a naked husband and wife -- one of whom has a "perky butt" -- who are in turn pursuing a dog gives them their sole opportunity to use the guns they have been ogling since book two.
+The long build-up given to their anticipated shoot out with Victor Frankenstein is a dead end.
+They would have been just as appropriately armed with rubber-band guns and paper clips.
+Koontz finds his footing in the final chapters, a Lovecraftian showdown between Frankenstein and his artificial creations inside a series of tunnels beneath a dump.
+He even sets up a possible sequel and makes a connection to his popular Odd Thomas series.
+But it's too little, too late.
+After 352 relentlessly padded pages (I gave up counting how many times Koontz tells us that Victor's creatures gain their memories through data-downloads), the Frankenstein series that began with so much promise limps across the finish line, a pale shadow of what it could have been.
